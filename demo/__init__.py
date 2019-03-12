@@ -1,5 +1,5 @@
 import os
-from test import process
+from ana import process
 
 
 path = input("请输入待分析日志路径：")     #获取文件夹目录
