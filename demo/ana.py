@@ -6,7 +6,7 @@ import re
 
 def process(ana_path,res_path1,res_path2):
 
-	ps = open("../result/yic.txt","w")
+    ps = open("../result/yic.txt","w")
     f = open(ana_path, 'r')
     j = 0
 
